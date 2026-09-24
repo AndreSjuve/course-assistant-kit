@@ -1,7 +1,7 @@
 # Handout: build your own course assistant
 
 The three files a course responsible needs to start, from the seminar
-[Building an AI assistant for your course](../slides/index.html) (NHH
+[Building an AI assistant for your course](../slides.html) (NHH
 seminar, 2026). The slides explain the reasoning; these files are the
 starting point so nobody begins from a blank box.
 

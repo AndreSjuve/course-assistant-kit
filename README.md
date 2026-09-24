@@ -20,9 +20,9 @@ with about concepts, exercises, deadlines and course rules.
 
 ## What is here
 
-| Folder | What it holds |
+| File or folder | What it holds |
 |:--|:--|
-| `slides/` | The slides. Download the folder and open `index.html` in a browser |
+| `slides.html` | The slides, as one self-contained file. Download it and open it in a browser |
 | `examples/` | The instructions of BED3-Buddy, a course assistant for a bachelor finance course, with notes on what the tutor stance and the refusal rules do; an inventory of which course files to upload; and a note to students |
 | `builder/` | The instructions and knowledge file of Kursassistent-byggeren itself, and an example of a draft it wrote for BED3 |
 
