@@ -36,9 +36,9 @@ the stance and the refusals.
 
 This is the instruction text of the case-study assistant (BED3, a mandatory
 bachelor course in capital budgeting and finance at NHH) as rebuilt and
-tested in Sikt KI-assistent in September 2026. It is extracted from
-`assistant/instructions.md` in this repository, which is the source of truth
-and has the test log next to it. The only change here is the markers.
+tested by the teacher in Sikt KI-assistent in September 2026; students have
+not used this version yet. It is the text of BED3-Buddy's Instructions field,
+and the only change here is the markers.
 
 ## The instructions
 

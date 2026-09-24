@@ -11,7 +11,9 @@ with about concepts, exercises, deadlines and course rules.
    the link to your course page. It interviews you and writes a first draft of
    the instructions, then walks you through the other settings.
 2. Compare the draft with [`examples/instructions.md`](examples/instructions.md),
-   the instructions of a course assistant that has been used and tested.
+   the instructions of BED3-Buddy as rewritten for Sikt in September 2026.
+   The teacher has tested them in Sikt; students have not used this version
+   yet.
 3. Gather your files with [`examples/knowledge-files.md`](examples/knowledge-files.md).
 4. Test it the way a student would, then post
    [`examples/note-to-students.md`](examples/note-to-students.md) next to the link.
@@ -20,7 +22,7 @@ with about concepts, exercises, deadlines and course rules.
 
 | Folder | What it holds |
 |:--|:--|
-| `slides/` | The slides (`index.html`) and the handout with the spoken text under each slide (`handout.html`). Download the folder and open either file in a browser |
+| `slides/` | The slides. Download the folder and open `index.html` in a browser |
 | `examples/` | The instructions of BED3-Buddy, a course assistant for a bachelor finance course, with notes on what the tutor stance and the refusal rules do; an inventory of which course files to upload; and a note to students |
 | `builder/` | The instructions and knowledge file of Kursassistent-byggeren itself, and an example of a draft it wrote for BED3 |
 
