@@ -1,6 +1,6 @@
 # Knowledge file inventory
 
-A knowledge file is a document the teacher uploads so the course assistant
+A knowledge file is a document the course responsible uploads so the course assistant
 can answer from it. The assistant is not trained on these files; it looks up
 the relevant passage each time a student asks. This inventory lists the kinds
 of files worth uploading, one rule for each, and marks the kinds the

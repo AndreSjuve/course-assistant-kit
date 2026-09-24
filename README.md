@@ -12,7 +12,7 @@ with about concepts, exercises, deadlines and course rules.
    the instructions, then walks you through the other settings.
 2. Compare the draft with [`examples/instructions.md`](examples/instructions.md),
    the instructions of BED3-Buddy as rewritten for Sikt in September 2026.
-   The teacher has tested them in Sikt; students have not used this version
+   The course responsible has tested them in Sikt; students have not used this version
    yet.
 3. Gather your files with [`examples/knowledge-files.md`](examples/knowledge-files.md).
 4. Test it the way a student would, then post

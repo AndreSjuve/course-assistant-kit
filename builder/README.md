@@ -1,7 +1,7 @@
 # Kursassistent-byggeren
 
-A Sikt KI-assistent that helps NHH teachers build a course assistant. It reads
-the course page, interviews the teacher one question at a time, drafts the
+A Sikt KI-assistent that helps NHH lecturers build a course assistant. It reads
+the course page, interviews the course responsible one question at a time, drafts the
 instructions and advises on the other fields in the Sikt builder. Open it at
 <https://ki.sikt.no/B53K>.
 

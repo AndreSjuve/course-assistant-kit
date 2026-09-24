@@ -4,7 +4,7 @@ What each field in the Sikt KI-assistent builder does, what the case-study
 course assistant (BED3-Buddy, a bachelor finance course at NHH) used, and how
 to test the result. Based on building and testing BED3-Buddy in September
 2026. Sikt changes the service, so the labels and the list of models may
-differ from what the teacher sees.
+differ from what the course responsible sees.
 
 Log in at <https://ki-chat.nhh.no/> with Feide.
 

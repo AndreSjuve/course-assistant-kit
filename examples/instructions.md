@@ -1,6 +1,6 @@
 # Instructions for a course assistant
 
-The instruction text is the one thing a teacher writes for a course assistant.
+The instruction text is the one thing a course responsible writes for a course assistant.
 It tells the assistant what it is, what it should do and what it must refuse.
 It is written in plain language and pasted into the "Instructions" field of
 Sikt KI-assistent (or any equivalent tool).
@@ -36,7 +36,7 @@ the stance and the refusals.
 
 This is the instruction text of the case-study assistant (BED3, a mandatory
 bachelor course in capital budgeting and finance at NHH) as rebuilt and
-tested by the teacher in Sikt KI-assistent in September 2026; students have
+tested by the course responsible in Sikt KI-assistent in September 2026; students have
 not used this version yet. It is the text of BED3-Buddy's Instructions field,
 and the only change here is the markers.
 
