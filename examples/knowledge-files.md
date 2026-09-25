@@ -6,9 +6,6 @@ the relevant passage each time a student asks. This inventory lists the kinds
 of files worth uploading, one rule for each, and marks the kinds the
 case-study assistant (BED3 at NHH) used. No actual course files are included.
 
-**The one rule that covers everything:** never upload what you would not put
-on the course page.
-
 ## Inventory
 
 | Kind of file | Rule | Case study |
@@ -25,14 +22,6 @@ on the course page.
 | Anything containing student data | Never: no names, grades, submissions, emails or feedback on individual work. | |
 | Anything from the assessment side | Never: exam drafts, solution proposals, grading maps. If a student could not read it on the course page, it does not go in. | |
 
-## Where the files go
-
-For Sikt KI-assistent, from Sikt's privacy statement (June 2026): the models
-run on Microsoft Azure in Sweden, all processing takes place within the EEA,
-inputs and outputs are not used to train language models (and this cannot be
-switched on in the service's current design), and when a staff member uses
-the service on behalf of NHH, NHH is normally the data controller. Sources with links
-are in `docs/research-platforms.md`, section 1.
 
 ## Practical advice
 
